@@ -1,2 +1,1 @@
-# LPSPROJECT1
- ............
+print("nothing")
